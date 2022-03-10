@@ -128,8 +128,13 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# .DS_Store
 .DS_Store
-.env
+
+# Adding config.py file
 config.py
 config*
-MyWork
+
+# Adding addititonal files
+random_numbers.ipynb
+API_practice.ipynb
